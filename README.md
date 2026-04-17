@@ -9,9 +9,9 @@
 | Dataset ID | `706059` |
 | Location | Rockford |
 | Category | Restaurants |
-| Full dataset size | 304 records |
-| Free sample size | 43 records (14.14%) |
-| Last export | 2026-03-31T12:49:25.830923+00:00 |
+| Full dataset size | 431 records |
+| Free sample size | 43 records (9.98%) |
+| Last export | 2026-04-14T12:59:31.162154+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rockford-illinois-us-sample-706059/releases/download/sample-latest/beamstation_706059_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
