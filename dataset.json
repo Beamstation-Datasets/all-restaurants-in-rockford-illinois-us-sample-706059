@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Rockford, Illinois with a population of over 148k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Rockford, Illinois, US",
-  "export_job_id": "d970bea7-d2a2-428f-829e-2e25835dca92",
+  "export_job_id": "9de4602a-6801-45da-a142-0608323dea94",
   "github_org": "Beamstation-Datasets",
   "id_short": 706059,
   "location_name": "Rockford",
   "location_type": "city",
   "repo_name": "all-restaurants-in-rockford-illinois-us-sample-706059",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/706059/beamstation_706059_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_pct": 14.14,
+  "sample_pct": 9.98,
   "sample_records": 43,
   "sample_sha256": "eab49fb0cd0fa18f1ecb73720464808a879c33b12dc6bacbf8377401c505b820",
   "sample_size_bytes": 168481,
-  "total_records": 304,
-  "updated_at": "2026-03-31T12:49:25.830923+00:00"
+  "total_records": 431,
+  "updated_at": "2026-04-14T12:59:31.162154+00:00"
 }
