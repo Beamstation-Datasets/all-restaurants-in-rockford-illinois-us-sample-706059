@@ -1,12 +1,12 @@
 {
-  "export_job_id": "875a4c18-7625-4797-a85e-8c69f70e31e8",
+  "export_job_id": "23df1ad2-34bd-487a-87f6-0a7a06e44bea",
   "id_short": 706059,
-  "published_at": "2026-04-28T19:25:16Z",
+  "published_at": "2026-05-06T07:13:50Z",
   "repo_name": "all-restaurants-in-rockford-illinois-us-sample-706059",
   "sample_asset_name": "beamstation_706059_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/706059/beamstation_706059_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 45,
-  "sample_sha256": "4baf5f5ff0e717c8b5096b48fdddd590bb88f8c99bbe7533bdb1dffede88b0e6",
-  "sample_size_bytes": 152631,
-  "total_records": 455
+  "sample_records": 46,
+  "sample_sha256": "acc66f7c4a688213c4ab92555953e8e1ea3ac15f77eff188bfd8899cf8532b4d",
+  "sample_size_bytes": 180826,
+  "total_records": 464
 }
